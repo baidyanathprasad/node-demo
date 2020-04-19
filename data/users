@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Ram",
+    "age": "20"
+  },
+  {
+    "name": "Shyam",
+    "age": "222"
+  },
+  {
+    "name": "Sita",
+    "age": "28"
+  },
+  {
+    "name": "Laxman",
+    "age": "26"
+  },
+  {
+    "name": "Bharat",
+    "age": "27"
+  },
+  {
+    "name": "Shatrughan",
+    "age": "24"
+  }
+]
