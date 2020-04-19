@@ -26,7 +26,7 @@ const server = http.createServer((req, res) => {
                 res.end();
             })            
         }
-        // New endpoint `help` which provides random advice
+        // New endpoint `help` which provides random advi
         else if (req.url == '/help'){
             const randomIndex = Math.floor(Math.random() * options.length);
             const resModel = JSON.stringify({
